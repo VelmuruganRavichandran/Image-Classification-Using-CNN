@@ -1,0 +1,4 @@
+# Unfortunately the Dataset is too large because it contains 10000 images of dogs and cats, So I've uploaded the dataset in Google Drive.
+
+Dataset Download Link:
+https://drive.google.com/drive/folders/1DlVKDX6Vq5iLAK8Qv0ARglt25Lf9B6pr?usp=drive_link
